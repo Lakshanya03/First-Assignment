@@ -1,12 +1,15 @@
 1. WHAT ARE YOUR MOTIVATIONS TOWARDS BIOINFORMATICS?
 
-
-
-
-
-
+I wanted to explore more about bioinformatics practically which is more helpful than learning it theoretically.
+Bioinformatics has great impact in the other fields of life science like in the genetic research, in drug discovery and delivery,etc..
+For the future development of biotechnology, bioinformatics will have a great role to play in it. So i think inorder to sustain in 
+biotechnology field knowledge in bioinformatics is a must. I think it is more interesting to learn it practically rather than
+theoretically.
 
 
 
 
 2. WHAT DO YOU EXPECT TO GAIN FROM THIS ASSOCIATION?
+
+I dont knw much about bioinformatics, maybe if itcomes to be theory i have a bit idea about it but practically i want to explore more.
+I just want an idea about the codingand the other tools.
